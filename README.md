@@ -4,7 +4,7 @@ Read Details for the proejct Requirments [Mini Job Portal](https://teyouale.noti
 
 
 how to run the project:
-###  `$ git clone https://github.com/jonathan-demlie/React-Challange.git`
+###  `$ git clone `https://github.com/Moha1420/ReactYenetta/
 
 ###  `$ cd React-Challenge`
 
